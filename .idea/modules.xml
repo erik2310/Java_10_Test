@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_10_Test.iml" filepath="$PROJECT_DIR$/Java_10_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common.widget/common.widget.iml" filepath="$PROJECT_DIR$/common.widget/common.widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data.widget/data.widget.iml" filepath="$PROJECT_DIR$/data.widget/data.widget.iml" />
     </modules>
   </component>
 </project>
